@@ -1,4 +1,4 @@
-import classificaTriangulo  from './lib.js';
+import classificaTriangulo  from './lib.js'
 
 console.log(classificaTriangulo(2, 2, 2))
 
